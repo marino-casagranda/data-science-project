@@ -1,0 +1,11 @@
+anywidget
+catboost
+jupyter
+matplotlib
+mlflow
+optuna
+pandas
+plotly
+scikit-learn
+seaborn
+xgboost
