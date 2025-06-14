@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/243767882592717077/b274f89f0c304a6792e1c6159c1acb88/artifacts
+deleted_time: 1749926588582
+end_time: 1749925279467
+entry_point_name: ''
+experiment_id: '243767882592717077'
+lifecycle_stage: deleted
+run_id: b274f89f0c304a6792e1c6159c1acb88
+run_name: nimble-fly-414
+run_uuid: b274f89f0c304a6792e1c6159c1acb88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749925273646
+status: 3
+tags: []
+user_id: Brian
