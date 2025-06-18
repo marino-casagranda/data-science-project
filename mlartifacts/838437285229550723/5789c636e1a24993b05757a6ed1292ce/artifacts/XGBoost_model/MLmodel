@@ -16,9 +16,9 @@ flavors:
 is_signature_from_type_hint: false
 mlflow_version: 2.22.0
 model_size_bytes: 3404033
-model_uuid: ea137a7b4bbe437186f82848cd5420b4
+model_uuid: deee2a880fe249c192df873624dd4a10
 prompts: null
-run_id: 4a47d4a1d0dc46e9a7ed78d9a30028a9
+run_id: 5789c636e1a24993b05757a6ed1292ce
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -86,4 +86,4 @@ signature:
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
   params: null
 type_hint_from_example: false
-utc_time_created: '2025-06-17 21:45:35.212510'
+utc_time_created: '2025-06-18 11:21:55.241961'

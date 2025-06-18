@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/838437285229550723/5789c636e1a24993b05757a6ed1292ce/artifacts
+end_time: 1750245723059
+entry_point_name: ''
+experiment_id: '838437285229550723'
+lifecycle_stage: active
+run_id: 5789c636e1a24993b05757a6ed1292ce
+run_name: bemused-cub-53
+run_uuid: 5789c636e1a24993b05757a6ed1292ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750245714813
+status: 3
+tags: []
+user_id: Brian
